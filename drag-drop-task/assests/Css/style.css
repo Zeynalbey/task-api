@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(215, 242, 250);
+}
+.card-img-top{
+    height:300px;
+    width: 100%;
+ 
+}
+.col-lg-3{
+    height: 500px;
+    margin: 40px 0;
+    padding-top: 50px;
+}
+.card-title{
+    height: 50px;
+    font-size: 15px;
+    margin-bottom:30px ;
+}
+#btn{
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 20px;
+    
+    width: 400px;
+    height: 40px;
+    color: white;
+    background-color: rgb(64, 6, 6);
+    border-radius: 10px;
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+
+.card-text{
+    text-align: center;
+}
+.card{
+    border-radius: 20px;
+    background-color: rgb(64, 6, 6);
+    color: white;
+    border: none;
+}
